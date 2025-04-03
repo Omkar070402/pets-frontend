@@ -1,0 +1,9 @@
+.single-card{   
+    font-family: "Dancing Script", cursive;  
+    text-transform: capitalize; 
+    /* background-image: url('/assets/bg-single.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  */
+}
