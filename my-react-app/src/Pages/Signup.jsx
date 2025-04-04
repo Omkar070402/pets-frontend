@@ -41,7 +41,7 @@ const Signup = () => {
 
           <div className="flex flex-col justify-center items-center gap-4 mt-5 w-full">
             <div className="w-full">
-              <label className="block text-lg font-medium text-gray-700 text-left">Email:</label>
+              <label className="block text-lg font-medium text-gray-700 text-left">Name:</label>
               <input
                 type="text"
                 placeholder="Enter your email"
